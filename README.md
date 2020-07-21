@@ -5,7 +5,7 @@ Implementation of https://arxiv.org/abs/1609.04802.
 
 ### Neural Network Architecture
 
-![](data/Readme/capture.PNG)
+![](data/Readme/Capture.PNG)
 
 
 
